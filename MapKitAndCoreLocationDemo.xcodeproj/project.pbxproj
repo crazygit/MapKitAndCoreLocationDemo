@@ -11,6 +11,7 @@
 		48EAB5B62A78B6D800AC0D61 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48EAB5B52A78B6D800AC0D61 /* ContentView.swift */; };
 		48EAB5B82A78B6DA00AC0D61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48EAB5B72A78B6DA00AC0D61 /* Assets.xcassets */; };
 		48EAB5BB2A78B6DA00AC0D61 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 48EAB5BA2A78B6DA00AC0D61 /* Preview Assets.xcassets */; };
+		48EAB5C22A78B7BD00AC0D61 /* LocationDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48EAB5C12A78B7BD00AC0D61 /* LocationDataManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		48EAB5B52A78B6D800AC0D61 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		48EAB5B72A78B6DA00AC0D61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		48EAB5BA2A78B6DA00AC0D61 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		48EAB5C12A78B7BD00AC0D61 /* LocationDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDataManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				48EAB5B32A78B6D800AC0D61 /* MapKitAndCoreLocationDemoApp.swift */,
 				48EAB5B52A78B6D800AC0D61 /* ContentView.swift */,
+				48EAB5C12A78B7BD00AC0D61 /* LocationDataManager.swift */,
 				48EAB5B72A78B6DA00AC0D61 /* Assets.xcassets */,
 				48EAB5B92A78B6DA00AC0D61 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				48EAB5B62A78B6D800AC0D61 /* ContentView.swift in Sources */,
+				48EAB5C22A78B7BD00AC0D61 /* LocationDataManager.swift in Sources */,
 				48EAB5B42A78B6D800AC0D61 /* MapKitAndCoreLocationDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
