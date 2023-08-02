@@ -9,6 +9,8 @@ import SwiftUI
 
 @main
 struct MapKitAndCoreLocationDemoApp: App {
+    @UIApplicationDelegateAdaptor private var appDelegate: AppDelegate
+
     var body: some Scene {
         WindowGroup {
             ContentView()
