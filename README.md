@@ -47,4 +47,4 @@
 4. [如果App依赖的服务是必须的，没有它App就不能工作，则需要再`Info.plist`文件里声明，这样用户在从AppStore里安装服务的时候，如果它 的设备不支持该服务，就不会搜索到App](https://developer.apple.com/documentation/corelocation/configuring_your_app_to_use_location_services#3384900)
 ![](https://images.crazygit.dev/2023/07/a.png)
 
-5. 具体实现参考 [LocationsHandler](MapKitAndCoreLocationDemo/LocationsHandler.swiftMapKitAndCoreLocationDemo/LocationsHandler.swift)文件
+5. 具体实现参考 [LocationsHandler](MapKitAndCoreLocationDemo/LocationsHandler.swift)文件
